@@ -1,0 +1,7 @@
+elsődog,false,5,Dog
+másodikdog,true,3,Dog
+valami,true,30,Panda
+harmadikdog,false,3,Dog
+elsőnyulambulam,true,1,Rabbit
+másodiknyulambulam,true,2,Rabbit
+harmadiknyulambulam,false,3,Rabbit
