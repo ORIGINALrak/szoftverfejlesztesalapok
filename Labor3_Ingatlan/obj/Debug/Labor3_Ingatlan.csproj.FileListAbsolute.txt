@@ -1,0 +1,7 @@
+C:\Users\hallgato\Desktop\Labor3_Ingatlan\bin\Debug\Labor3_Ingatlan.exe.config
+C:\Users\hallgato\Desktop\Labor3_Ingatlan\bin\Debug\Labor3_Ingatlan.exe
+C:\Users\hallgato\Desktop\Labor3_Ingatlan\bin\Debug\Labor3_Ingatlan.pdb
+C:\Users\hallgato\Desktop\Labor3_Ingatlan\obj\Debug\Labor3_Ingatlan.csproj.AssemblyReference.cache
+C:\Users\hallgato\Desktop\Labor3_Ingatlan\obj\Debug\Labor3_Ingatlan.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\Desktop\Labor3_Ingatlan\obj\Debug\Labor3_Ingatlan.exe
+C:\Users\hallgato\Desktop\Labor3_Ingatlan\obj\Debug\Labor3_Ingatlan.pdb
